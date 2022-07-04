@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 567963a14a82e07408d85488cead37d1, type: 3}
+  m_Name: Frodo
+  m_EditorClassIdentifier: 
+  name: Frodo
+  frontSprite: {fileID: 21300000, guid: c1237b5b98d72a94baf62896dc279787, type: 3}
+  attackSprite: {fileID: 21300000, guid: 9b2ee812ba46563458f2f4bee9c23615, type: 3}
+  hp: 1
+  energy: 50
+  dmg: 20
+  dmgProb: 30
+  defense: 50
+  probEffect: 10
+  effect: 0
+  learnMoves: []
